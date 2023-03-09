@@ -12,3 +12,5 @@ Amazon EC2에서는 확장 또는 축소를 통해 요구 사항 변경 또는 �
 <p><a href="./EC2_GetStarted.html">자습서: Amazon EC2 Linux 인스턴스 시작</a></p>
 
 # Amazon EC2 Mac 인스턴스는 기본적으로 macOS 운영 체제를 지원
+EC2 x86 Mac 인스턴스(mac1.metal)는 3.2GHz Intel 8세대(Coffee Lake) Core i7 프로세서로 구동되는 2018 Mac mini 하드웨어를 기반으로 구축
+EC2 M1 Mac 인스턴스(mac2.metal)는 Apple Silicon M1 프로세서로 구동되는 2020 Mac mini 하드웨어를 기반으로 구축
