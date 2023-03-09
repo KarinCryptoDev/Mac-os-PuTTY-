@@ -1,7 +1,7 @@
 # Mac-os-PuTTY-
 Mac의 Terminal을 이용해서 Putty를 설치해보자.
 
-#Amazon EC2이란? 
+# Amazon EC2이란? 
 Amazon Elastic Compute Cloud(Amazon EC2)는 Amazon Web Services(AWS) 클라우드에서 확장 가능 컴퓨팅 용량을 제공함
 Amazon EC2를 사용하면 하드웨어에 선투자할 필요가 없어 더 빠르게 애플리케이션을 개발하고 배포가능
 Amazon EC2를 사용하여 원하는 수의 가상 서버를 구축하고 보안 및 네트워킹을 구성하며 스토리지를 관리 가능.
