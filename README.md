@@ -1,6 +1,16 @@
 # Mac-os-PuTTY-
 Mac의 Terminal을 이용해서 Putty를 설치해보자.
 
+X-code가 먼저 설치돼있어야함. 약 20기가정도 차지하는걸로 아니깐...미리 비우고 다운받으시길...
+ xcode-select --install 명령어 입력
+
+1.homebrew에 Mac PuTTY 설치
+
+homebrew가 설치 되었다면 터미널에 brew install putty를 입력하고 설치를 진행
+
+
+
+
 # Amazon EC2이란? 
 Amazon Elastic Compute Cloud(Amazon EC2)는 Amazon Web Services(AWS) 클라우드에서 확장 가능 컴퓨팅 용량을 제공함
 Amazon EC2를 사용하면 하드웨어에 선투자할 필요가 없어 더 빠르게 애플리케이션을 개발하고 배포가능
